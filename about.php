@@ -190,7 +190,7 @@ require_once 'config/session.php';
         </div>
 
         <!-- Group Members -->
-        <div class="about-section group-members">
+        <!-- <div class="about-section group-members">
             <h2>Group Members</h2>
             <p class="note">👥 This project was developed by a dedicated team of students</p>
             <div class="members-grid">
@@ -237,7 +237,7 @@ require_once 'config/session.php';
             <div class="update-note">
                 <p><strong>Note:</strong> Please update the member names and IDs in the <code>about.php</code> file with your actual group member information.</p>
             </div>
-        </div>
+        </div> -->
 
         <!-- Course Information -->
         <div class="about-section">
@@ -283,7 +283,7 @@ require_once 'config/session.php';
         <div class="about-section github-section">
             <h2>Source Code</h2>
             <p>The complete source code for this project is available on GitHub:</p>
-            <a href="https://github.com/yourusername/student-management-system" class="btn btn-primary" target="_blank">
+            <a href="https://github.com/36222-saim/web-project" class="btn btn-primary" target="_blank">
                 View on GitHub
             </a>
             <p class="note">⚠️ Update the GitHub repository URL above with your actual repository link</p>
@@ -293,8 +293,8 @@ require_once 'config/session.php';
         <div class="about-section contact-section">
             <h2>Contact</h2>
             <p>For questions or feedback about this project, please contact the development team:</p>
-            <p><strong>Email:</strong> team@studentms.com</p>
-            <p><strong>GitHub:</strong> <a href="https://github.com/yourusername/student-management-system" target="_blank">Project Repository</a></p>
+            <p><strong>Email:</strong> team@student-management.free.nf</p>
+            <p><strong>GitHub:</strong> <a href="https://github.com/36222-saim/web-project" target="_blank">Project Repository</a></p>
         </div>
     </div>
 

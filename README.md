@@ -122,7 +122,7 @@ Educational institutions face challenges in managing student data efficiently. M
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/student-management-system.git
+git clone https://github.com/36222-saim/web-project
 
 # Or download and extract the ZIP file
 ```
