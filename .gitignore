@@ -1,0 +1,57 @@
+# Student Management System - Git Ignore File
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+error_log
+php_errors.log
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+*.swp
+*~
+
+# Uploaded files (if you add upload functionality)
+uploads/*
+!uploads/.gitkeep
+
+# Cache and temporary files
+cache/
+tmp/
+temp/
+
+# Composer (if used in future)
+/vendor/
+composer.phar
+
+# Node modules (if you add npm packages)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Database backup files
+*.sql.bak
+*.sql.gz
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
