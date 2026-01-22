@@ -1,8 +1,5 @@
 <?php
-/**
- * Home Page - Landing page of Student Management System
- */
-
+//main file
 require_once 'config/session.php';
 ?>
 
